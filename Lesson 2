@@ -1,0 +1,42 @@
+Components ->http://www.informationisbeautiful.net/visualizations/the-billion-dollar-gram/
+	Lines
+	Shapes
+	Font
+	Color
+	Movement
+	Size
+	etc
+Composition -> http://www.nytimes.com/interactive/2012/02/13/us/politics/2013-budget-proposal-graphic.html?_r=0
+	Placement
+	Emphasis
+	Alignment
+	Grouping
+	Flow
+	Harmony
+	Trivia:
+		The usual path for humans' eyes is Z.
+		Left aligned 
+Concept
+	Metaphors matter. 
+
+
+-----
+
+Data dimensions
+	More complex/data dimensions == more challenging to design
+
+Infographics vs Data visualization
+	Infographics
+		Manually drawn. Specific to data at hand. Aesthetically rich. Relatively data poor. Less control in changing the data.
+	Data Visualization
+		Algorithmically drawn. Easy to regenerate with different data. Often aesthetically barren. Relatively data-rich. 
+
+	Point: Everytime that the data change, is it easily reflected through the design? 
+		Yes: Data vis
+		No: Info
+
+
+Suggested links:
+	http://d3js.org/
+	informationisbeautiful.net
+	nytimes
